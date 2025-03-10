@@ -1,1 +1,1 @@
-Built off [Code Hike](Code Hike docs) with love and admiration.
+Built off [Code Hike](https://codehike.org/docs) with love and admiration.
